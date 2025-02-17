@@ -1,0 +1,16 @@
+{
+  "name": "heybuddychat_test",
+  "version": "1.0.0",
+  "description": "\"랜덤채팅앱을 만들기 전에 해보는 테스트용도\"",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"정이령\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
